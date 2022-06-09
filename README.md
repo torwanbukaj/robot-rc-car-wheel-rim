@@ -1,6 +1,6 @@
 # Customizable robot / RC car wheel rim
 
-![Example rim design](https://github.com/torwanbukaj/robot-rc-car-wheel-rim/img/rim_example_openscad.png?raw=true)
+![Example rim design](img/rim_example_openscad.png?raw=true)
 
 This OpenSCAD project can be used for designing your custom robot or RC car wheel rim which you can then 3D print and use with a tire of your choice.
 
