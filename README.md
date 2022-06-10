@@ -20,8 +20,12 @@ I recommend increasing the measured value by a few percent. In the example from 
 
 - This is how you should take measurement for rim collar height dimension:
 
-![How to design rim collar height](img/tire_collar_height_meas_360px.png?raw=true)
+![Rim collar height](img/tire_collar_height_meas_360px.png?raw=true)
 
 - This is how you should take measurement for rim collar width dimension:
 
-![How to design rim collar width](img/tire_collar_width_meas_360px.png?raw=true)
+![Rim collar width](img/tire_collar_width_meas_360px.png?raw=true)
+
+- This is how you should take measurement for rim sitting width dimension:
+
+![Rim sitting width](img/tire_rim_sitting_width_meas_450px.png?raw=true)
