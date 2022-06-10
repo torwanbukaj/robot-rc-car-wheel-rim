@@ -12,4 +12,7 @@ This OpenSCAD project can be used for designing your custom robot or RC car whee
 
 ## Taking measurements
 
-(picture of the red tire)
+This is how you should measure tire inner diameter:
+
+![How to measure tire_inner_dia](img/tire_inner_dia_meas_500px.png?raw=true)
+I recommend increasing the measured value by a few percent. In the example from the picture the measured diameter was 46mm. I used 50mm in the target design of the rim (tire_inner_dia = 50;).
