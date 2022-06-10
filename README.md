@@ -17,3 +17,11 @@ This OpenSCAD project can be used for designing your custom robot or RC car whee
 ![How to measure tire_inner_dia](img/tire_inner_dia_meas_500px.png?raw=true)
 
 I recommend increasing the measured value by a few percent. In the example from the picture the measured diameter was 46mm (you may not see it on the picture above due to the parallax error). Finally, I used 50mm in the target design of the rim ( tire_inner_dia = 50; ). In general, account for flexibility of the tires you have.
+
+- This is how you should take measurement for rim collar height dimension:
+
+![How to design rim collar height](img/tire_collar_height_meas_360px.png?raw=true)
+
+- This is how you should take measurement for rim collar width dimension:
+
+![How to design rim collar width](img/tire_collar_width_meas_360px.png?raw=true)
